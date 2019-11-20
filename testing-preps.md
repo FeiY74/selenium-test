@@ -1,4 +1,4 @@
-#1. Download python
+# 1. Download python
 Download python from https://www.python.org/.  
 Tick the box of "Add Python 3.6 to PATH" when install.  
 or...  
@@ -16,14 +16,14 @@ brew install python3
 ```
 python3 -V
 ```
-#2. Download driver
+# 2. Download driver
 For Chrome, download from [ChromeDriver - WebDriver for Chrome](https://sites.google.com/a/chromium.org/chromedriver/).  
 Unzip tyhe driver.
-#3. Download Selenium
+# 3. Download Selenium
 ```
 pip install selenium
 ```
-#4. Download pytest
+# 4. Download pytest
 ```
 pip install -U pytest
 ```
