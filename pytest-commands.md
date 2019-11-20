@@ -10,7 +10,7 @@ pytest --duration=N
 ```
 pytest --ff
 ```
-*Only test last failure
+* Only test last failure
 ```
 pytest --lf
 ```
