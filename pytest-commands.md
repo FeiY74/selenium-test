@@ -1,10 +1,10 @@
 * Show test duration
 ```
-pytest -v --duration=0
+pytest -v --durations=0
 ```
 * Show N of the slowest test
 ```
-pytest --duration=N
+pytest --durations=N
 ```
 * Test from last failure
 ```
